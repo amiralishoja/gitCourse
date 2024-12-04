@@ -1,0 +1,30 @@
+episode 5
+
+git have 3 part
+
+working directory
+staging area
+head our repository
+
+episode 7
+
+git inint command for add git to project
+
+for show .git folder in vscode press ctrl + p and search >setting and select default settings json file and search .git and false this
+
+episode 8
+
+Untracked = there is file in working directory = U
+Index added = there is file in staging area = A
+Modified = there is file in staging area but changed = M
+
+git status show you wich files on staging area our working directory our wich file changed and modified
+git add {file name} added your file to staging area
+git add . added your all files {modified in staging area and untracked} to staging area
+
+episode 9
+
+git rm --cached leve file in staging area
+
+episode 10
+
