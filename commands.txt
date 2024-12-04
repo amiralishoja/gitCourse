@@ -28,3 +28,10 @@ git rm --cached leve file in staging area
 
 episode 10
 
+git commit add a comment our discriptioin to your change in code too better undrestand your changes
+
+episode 11
+
+git log show git commits with user and id and commit and date
+
+git log --oneline show git commits only and id becuse is tiny
