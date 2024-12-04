@@ -35,3 +35,14 @@ episode 11
 git log show git commits with user and id and commit and date
 
 git log --oneline show git commits only and id becuse is tiny
+
+episode 12
+
+git flags is --stat --graph --oneline ,...
+git flags can be with togather user
+
+git log --stat show show you what is changed in your code
+git log --graph show clean your commit and better
+git log --affter="24-02-15" show your commits affter 2024-02-15
+git log --before="24-02-15" show your commits before 2024-02-15
+git log --author="userName" show userName commits to you
