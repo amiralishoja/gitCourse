@@ -39,7 +39,7 @@ git log --oneline show git commits only and id becuse is tiny
 episode 12
 
 git flags is --stat --graph --oneline ,...
-git flags can be with togather user
+git flags can be with togather use
 
 git log --stat show show you what is changed in your code
 git log --graph show clean your commit and better
