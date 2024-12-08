@@ -56,3 +56,7 @@ episode 14
 git show "COMMIT ID" show yout what happend in this commit
 
 only git show show information the last your commit
+
+episode 15
+
+git 
