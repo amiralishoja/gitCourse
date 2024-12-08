@@ -48,3 +48,5 @@ git log --before="24-02-15" show your commits before 2024-02-15
 git log --author="userName" show userName commits to you
 
 episode 13
+
+for fast add and commit with togather you can use git commit -am "MASAGE" instead of git add and git commit -m "MASAGE"
