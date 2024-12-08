@@ -50,3 +50,9 @@ git log --author="userName" show userName commits to you
 episode 13
 
 for fast add and commit with togather you can use git commit -am "MASAGE" instead of git add and git commit -m "MASAGE"
+
+episode 14
+
+git show "COMMIT ID" show yout what happend in this commit
+
+only git show show information the last your commit
