@@ -59,4 +59,8 @@ only git show show information the last your commit
 
 episode 15
 
-git 
+git config --local alias."YOUR SHORTCUTS" "GIT COMMAND WITHOUT GIT"
+git config --local set your shortcuts in your project but --global set in your system
+
+for see git shortcuts you can try git config --global --get-regexp alias
+and for delete shortcuts you can try git config --global --unset alias."YOUR SHORTCUT"
