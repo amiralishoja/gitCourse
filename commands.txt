@@ -88,7 +88,7 @@ if you want to create a branch in your costum branch sholde switched to your bra
 
 git branch -m rename NEW BRANCH NAME your branch
 
-episode 20 install gitlens 
+episode 20 install gitlens extension
 
 episode 21 fast forward merge
 
