@@ -68,3 +68,9 @@ and for delete shortcuts you can try git config --global --unset alias."YOUR SHO
 episode 16
 
 branch is a solotion for better undrestanding and was cleaning project from many commit
+
+episode 17
+
+git branch show to you, your branchs
+git branch YOUR BRANCH NAME created new branch
+git switch YOUR BRANCH NAME switched to your branch
