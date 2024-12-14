@@ -81,3 +81,9 @@ git -d YOUR BRANCH NAME deleted branch
 git branch -c YOUR BRANCH NAME created branch and switched to this branch
 for example git -d hello when to work be we are not to hello branch
 if git -d hello doesn't work we can use git -D hello for delete branch
+
+episode 19
+
+if you want to create a branch in your costum brach sholde switched to your brach and created new branch becuse create new branch in branch master just create a new branch no create brach in your costum branch
+
+git branch -m rename NEW BRANCH NAME your branch
