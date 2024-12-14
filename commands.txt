@@ -74,3 +74,10 @@ episode 17
 git branch show to you, your branchs
 git branch YOUR BRANCH NAME created new branch
 git switch YOUR BRANCH NAME switched to your branch
+
+episode 18
+
+git -d YOUR BRANCH NAME deleted branch
+git branch -c YOUR BRANCH NAME created branch and switched to this branch
+for example git -d hello when to work be we are not to hello branch
+if git -d hello doesn't work we can use git -D hello for delete branch
