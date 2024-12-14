@@ -64,3 +64,7 @@ git config --local set your shortcuts in your project but --global set in your s
 
 for see git shortcuts you can try git config --global --get-regexp alias
 and for delete shortcuts you can try git config --global --unset alias."YOUR SHORTCUT"
+
+episode 16
+
+branch is a solotion for better undrestanding and was cleaning project from many commit
