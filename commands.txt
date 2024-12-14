@@ -89,10 +89,3 @@ if you want to create a branch in your costum brach sholde switched to your brac
 git branch -m rename NEW BRANCH NAME your branch
 
 episode 20 install gitlens extension
-
-episode 21 fast forward merge
-
-for marge in repository then they branch master not change we use fast forward merge
-git switched master
-git merge hello
-next we can delete branch next merge
