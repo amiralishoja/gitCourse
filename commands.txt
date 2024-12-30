@@ -100,3 +100,8 @@ next we can delete branch next merge
 episode 22 git non fast forward merge
 
 non fast forward merge when happening be we are merge hello branch in branch master but master updeted and non fast forward merging need to message just like git commit
+
+
+episode 23 how to solving confilict in git merge
+
+for solving confilict in git merge you must edit two result for merge and to end commited merge
