@@ -96,6 +96,7 @@ for marge in repository then they branch master not change we use fast forward m
 git switched master
 git merge hello
 next we can delete branch next merge
+
 episode 22 git non fast forward merge
 
 non fast forward merge when happening be we are merge hello branch in branch master but master updeted and non fast forward merging need to message just like git commit
