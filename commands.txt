@@ -112,3 +112,5 @@ episode 24 best practice merge
 2.you should try faster to merge your branch becuse maybe branch master updated and confilict happened.
 
 episode 25 semantic commit massage
+
+semantic commit massage is a best practice for commenting beter in the git
