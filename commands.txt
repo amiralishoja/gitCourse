@@ -110,3 +110,5 @@ episode 24 best practice merge
 
 1.you should use from a branch for a work not more
 2.you should try faster to merge your branch becuse maybe branch master updated and confilict happened.
+
+episode 25 sementic commit massage
