@@ -122,3 +122,7 @@ git diff do a comparison between staging area and working directory for to show 
 episode 27 git diff --staged
 
 git diff --stagaed show comparison between staging area and last commit
+
+episode 28 git diff HEAD/head
+
+git diff HEAD/head show changes berween working directory and last commit
