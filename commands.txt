@@ -134,3 +134,11 @@ git diff COMMITID..COMMITID our BRANCHNAME..BRANCHNAME can show you what is chan
 you can use space instead of ..
 
 you can use file name in the last line for see only changes in this file
+
+episode 30 git ignore
+
+.gitignore file access you to choise files should not process in git
+
+you can writing files/folders/regex for unselected git
+
+gitignore.io show you a list for each library and framwork file to need use in .gitignore file
