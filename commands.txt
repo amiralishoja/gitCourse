@@ -125,4 +125,10 @@ git diff --stagaed show comparison between staging area and last commit
 
 episode 28 git diff HEAD/head
 
-git diff HEAD/head show changes berween working directory and last commit
+git diff HEAD/head show changes between working directory and last commit
+
+episode 29 git diff branch and commit
+
+git diff COMMITID..COMMITID our BRANCHNAME..BRANCHNAME can show you what is changed in this parameters
+
+you can use space instead of ..
