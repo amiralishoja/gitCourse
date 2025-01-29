@@ -132,3 +132,5 @@ episode 29 git diff branch and commit
 git diff COMMITID..COMMITID our BRANCHNAME..BRANCHNAME can show you what is changed in this parameters
 
 you can use space instead of ..
+
+you can use file name in the last line for see only changes in this file
