@@ -118,3 +118,7 @@ semantic commit massage is a best practice for commenting beter in the git
 episode 26 git diff
 
 git diff do a comparison between staging area and working directory for to show what changed in affter and before
+
+episode 27 git diff --staged
+
+git diff --stagaed show comparison between staging area and last commit
