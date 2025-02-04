@@ -156,3 +156,8 @@ if you see a file with git checkout and not exited your head in commit just agai
 for see all log and commit in git checkout just use git log with --all flag
 
 you can see NUMBER last your commit with git checkout HEAD/head~NUMBER
+
+episode 32 git checkout HEAD/head
+
+git checkout HEAD FILENAME delete changes in working directory
+git checkout HEAD . delete changes in working directory
