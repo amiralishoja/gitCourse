@@ -142,3 +142,17 @@ episode 30 git ignore
 you can writing files/folders/regex for unselected git
 
 gitignore.io show you a list for each library and framwork file to need use in .gitignore file
+
+episode 31 git checkout
+
+git checkout COMMITID bring you to this commit and show you what happend and what changed
+
+you can see just a file with git checkout COMMITID FILENAME
+
+for exit in checkou just switched to your branch
+
+if you see a file with git checkout and not exited your head in commit just again try git checkout without file name and next switched to your branch
+
+for see all log and commit in git checkout just use git log with --all flag
+
+you can see NUMBER last your commit with git checkout HEAD/head~NUMBER
