@@ -149,7 +149,7 @@ git checkout COMMITID bring you to this commit and show you what happend and wha
 
 you can see just a file with git checkout COMMITID FILENAME
 
-for exit in checkou just switched to your branch
+for exit in checkou just switched to your branch our use this command git switch -
 
 if you see a file with git checkout and not exited your head in commit just again try git checkout without file name and next switched to your branch
 
