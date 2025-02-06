@@ -164,8 +164,14 @@ git checkout HEAD . delete changes in working directory
 
 episode 33 git restore
 
-git restore FILENAME give you access for delete every changes in FILENAME in working directory
+git restore FILENAME give you access for delete every changes in FILENAME in working directory and back to head
 
 git restore --staged FILENAME give you access for leave FILENAME in staged
 
 you can use . for all files
+
+episode 34 git restore --source
+
+you can restore to your COMMIT with git restore --source COMMITID FILENAME
+
+you can use HEAD/head~NUMBER in git restore --source
