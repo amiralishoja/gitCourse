@@ -175,3 +175,12 @@ episode 34 git restore --source
 you can restore to your COMMIT with git restore --source COMMITID FILENAME
 
 you can use HEAD/head~NUMBER in git restore --source
+
+episode 35 git clean
+
+git clean -flags FILENAME deleted file in whole project for ever
+
+git clean flags
+-f => force
+-d => remove in whole directory
+-h => for help about git clean flags
