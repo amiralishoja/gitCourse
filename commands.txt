@@ -149,7 +149,7 @@ git checkout COMMITID bring you to this commit and show you what happend and wha
 
 you can see just a file with git checkout COMMITID FILENAME
 
-for exit in checkou just switched to your branch our use this command git switch -
+for exit in checkout just switched to your branch our use this command git switch -
 
 if you see a file with git checkout and not exited your head in commit just again try git checkout without file name and next switched to your branch
 
@@ -184,3 +184,12 @@ git clean flags
 -f => force
 -d => remove in whole directory
 -h => for help about git clean flags
+
+episode 36 & 37 git reset
+
+git reset is a dangerous
+
+git reset --soft COMMITID leave your changes from repository to stage
+git reset --mixed COMMITID leave your changes from stage to working directory
+
+git reset COMMITID = git reset --mixed COMMITID
