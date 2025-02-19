@@ -201,3 +201,14 @@ git reset --hard COMMITID  leave your changes from repository and delete install
 episode 39 git revert
 
 git revert COMMITID create new commit and in that reversed every change in COMMIT, actually delete every change in commit in new tempelate
+
+episode 40 confilict in git revert & git revert flags
+
+you can use git revert for last commit becuse using git revert in past commits created confilict becuse might afterward commits have dependency
+
+confilict when happend you try revert file is not created so you get confilict error
+
+git revert flags
+
+--no-edit give not to you access to edit revert commit
+--edit give you access to edit revert commit
