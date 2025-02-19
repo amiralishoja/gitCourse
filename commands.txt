@@ -190,6 +190,10 @@ episode 36 & 37 git reset
 git reset is a dangerous
 
 git reset --soft COMMITID leave your changes from repository to stage
-git reset --mixed COMMITID leave your changes from stage to working directory
+git reset --mixed COMMITID leave your changes from repository to working directory
 
 git reset COMMITID = git reset --mixed COMMITID
+
+episode 38
+
+git reset --hard COMMITID  leave your changes from repository and delete install
