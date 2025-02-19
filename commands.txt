@@ -194,6 +194,10 @@ git reset --mixed COMMITID leave your changes from repository to working directo
 
 git reset COMMITID = git reset --mixed COMMITID
 
-episode 38
+episode 38 git reset part 2
 
 git reset --hard COMMITID  leave your changes from repository and delete install
+
+episode 39 git revert
+
+git revert COMMITID create new commit and in that reversed every change in COMMIT, actually delete every change in commit in new tempelate
