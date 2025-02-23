@@ -212,3 +212,7 @@ git revert flags
 
 --no-edit give not to you access to edit revert commit
 --edit give you access to edit revert commit
+
+episode 41 git status -s
+
+git status -s show status you but short
