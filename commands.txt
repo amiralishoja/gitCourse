@@ -216,3 +216,15 @@ git revert flags
 episode 41 git status -s
 
 git status -s show status you but short
+
+episode 46 connect repository to github
+
+git remote add REMOTENAME REPOSITORYLINK connect your repository to github repository
+
+also default REMOTENAME is origin
+
+git branch -M NEWBRANCHNAME rename master branch because now main is the defualt name for branch master in github
+
+also defualt NEWBRANCHNAME is master for old and for now is main
+
+git push -u REMOTENAME NEWBRANCHNAME send your repository from your system to github repository
