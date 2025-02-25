@@ -236,3 +236,9 @@ git remote show you your remotes
 git remote -v show you you rometes but with details
 
 git remote remove REMOTENAME deleted REMOTENAME than remotes
+
+episode 48 git push
+
+git push REMOTENAME BRANCHNAME we can send last change in system to github repository with this command
+
+git push -u REMOTENAME BRANCHNAME you can with this commit shortest git push REMOTENAME BRANCHNAME to git push for ever
