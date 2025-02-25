@@ -228,3 +228,11 @@ git branch -M NEWBRANCHNAME rename master branch because now main is the defualt
 also defualt NEWBRANCHNAME is master for old and for now is main
 
 git push -u REMOTENAME NEWBRANCHNAME send your repository from your system to github repository
+
+episode 47 git remote
+
+git remote show you your remotes
+
+git remote -v show you you rometes but with details
+
+git remote remove REMOTENAME deleted REMOTENAME than remotes
