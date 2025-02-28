@@ -242,3 +242,9 @@ episode 48 git push
 git push REMOTENAME BRANCHNAME we can send last change in system to github repository with this command
 
 git push -u REMOTENAME BRANCHNAME you can with this commit shortest git push REMOTENAME BRANCHNAME to git push for ever
+
+episode 49 git pull
+
+git pull REMOTENAME BRANCHNAME get new changes from github and put in you directory
+
+git pull without REMOTENAME BRANCHNAME work just like git pull REMOTENAME BRANCHNAME
