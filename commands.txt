@@ -248,3 +248,11 @@ episode 49 git pull
 git pull REMOTENAME BRANCHNAME get new changes from github and put in you directory
 
 git pull without REMOTENAME BRANCHNAME work just like git pull REMOTENAME BRANCHNAME
+
+episode 50 git fetch
+
+git fetch give new changes from remote but dont sync with your code you can with creat a new branch access this so lock at down
+
+git branch -r show you if there is changes a new remote branch
+
+git switcch -c BRANCHNAME origin/master you can with this command access this changes with create a new branch
