@@ -255,4 +255,4 @@ git fetch give new changes from remote but dont sync with your code you can with
 
 git branch -r show you if there is changes a new remote branch
 
-git switcch -c BRANCHNAME origin/master you can with this command access this changes with create a new branch
+test git pull confilict
