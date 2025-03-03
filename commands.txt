@@ -256,3 +256,7 @@ git fetch give new changes from remote but dont sync with your code you can with
 git branch -r show you if there is changes a new remote branch
 
 git switcch -c BRANCHNAME origin/master you can with this command access this changes with create a new branch
+
+episode 53 confilict in git pull
+
+if you hava confilict in git pull you can handle own in git lens pull
