@@ -298,3 +298,9 @@ you can show unorder list like this
     -code
     -code
 - code
+
+episode 55 img and link in README.md file
+
+you can put links with [LINKNAME](HREF) command in your repository
+
+you can put img with ![IMAGENAME](HREF)  command in your repository
