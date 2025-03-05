@@ -260,3 +260,41 @@ git switcch -c BRANCHNAME origin/master you can with this command access this ch
 episode 53 confilict in git pull
 
 if you hava confilict in git pull you can handle own in git lens pull
+
+episode 54 README.md
+
+readme to mean Read me
+.md to mean markdown
+
+markdown a language for showing just like html xml
+
+you can h1 tag in readme with # and ## and ... and ######
+
+for using hr tag in readme you can use ___ our ---
+
+you can use p tag with an without <p></p> command
+
+you can hilight your text in backtick => `code`
+
+you can show codeSection with 3 backtick => ```LANGUAGENAME
+your code
+```
+you can dont writing LANGUAGENAME and show codeSection with white color
+
+you can show order list => 1.code
+                                       2.code
+                                       3.code
+                                           1.code
+                                           2.code
+                                       4.code
+
+and you can use nestet list
+
+you can show unorder list like this
+
+- code
+- code
+- code
+    -code
+    -code
+- code
