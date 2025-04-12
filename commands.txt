@@ -304,3 +304,15 @@ episode 55 img and link in README.md file
 you can put links with [LINKNAME](HREF) command in your repository
 
 you can put img with ![IMAGENAME](HREF)  command in your repository
+
+episode 56 badge in readme
+
+you can find your badge in this repository
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+and using at like it
+
+![ALT](URL)
+
+and you can using and learn it from Shields.io
