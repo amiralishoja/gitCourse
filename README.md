@@ -8,10 +8,10 @@ There is Git course archive code from git course Sabzlearn
 
 ## Lessons Learned
 
-- git
-- github
-- gitlab
-- git flow
+- Git
+- Github
+- Gitlab
+- Git Flow
 
 
 ## My Social Media
