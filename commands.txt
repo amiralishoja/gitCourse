@@ -320,3 +320,9 @@ and you can using and learn it from Shields.io
 episode 57 readme.so
 
 you can create readme files with readme.so site easy and fast without any need to markdown command
+
+episode 58 github pages
+
+you can create a online demo for your static project in github with using github pages in setting section of your repository.
+
+point : is better to put your github pages link in your projects readme
