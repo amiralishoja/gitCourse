@@ -326,3 +326,8 @@ episode 58 github pages
 you can create a online demo for your static project in github with using github pages in setting section of your repository.
 
 point : is better to put your github pages link in your projects readme
+
+episode 59 private repository
+
+you can see your local github account with git config user.name
+
