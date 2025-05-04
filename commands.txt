@@ -331,3 +331,7 @@ episode 59 private repository
 
 you can see your local github account with git config user.name
 
+episode 60 invite collaborator in github
+
+at first you should invite your work partner to repo from repo setting > access > collaborator
+and then your partner should accept this in her/his github account or accept this in invite email
