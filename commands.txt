@@ -335,3 +335,9 @@ episode 60 invite collaborator in github
 
 at first you should invite your work partner to repo from repo setting > access > collaborator
 and then your partner should accept this in her/his github account or accept this in invite email
+
+episode 61 issue
+
+you can create issues for asking questions or report a bug or request a feature in a repository
+even you can using assignees for tag people or labels for show your mean better
+and at last you can close issues after ending that and clear your repository issues section
