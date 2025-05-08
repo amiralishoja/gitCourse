@@ -341,3 +341,9 @@ episode 61 issue
 you can create issues for asking questions or report a bug or request a feature in a repository
 even you can using assignees for tag people or labels for show your mean better
 and at last you can close issues after ending that and clear your repository issues section
+
+episode 62 using issues in team
+
+you can give task to your partner in github as way github issue
+at firs you should using assignees option in issue to give task to your partner
+second when your partner see your issue and fix your task, can commit that with #ISSUEID in commit massage and then you can see issue is closed
