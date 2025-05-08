@@ -347,3 +347,9 @@ episode 62 using issues in team
 you can give task to your partner in github as way github issue
 at firs you should using assignees option in issue to give task to your partner
 second when your partner see your issue and fix your task, can commit that with #ISSUEID in commit massage and then you can see issue is closed
+
+episode 63 using pull request in team
+
+what is pull request ? actually this is a feature for send codes to boss. whenever you writing a code and you need to check it with you boss you can send a pull request.
+pull request usally using for codes that are not safe or we haven't sure about it yet and we need some person read that and accept that to we marge it in master branch.
+at first whenever you would to write a code some like that you should create a new branch and writing your codes and then commit it. after that you need to marge it in your repository but you can't coz this isn't your repository and your remote repository isn't exist so you have to write this git push -u origin YOURBRANCHNAME or git push --set-upstream origin YOURBRANCHNAME and then you have to go in github repository and create a pull request. in repository in pull request section create a pull request and chose the YOURBRANCHNAME and write a commit for that and then send it.whenever your boss accept it your changes applied in master. after that you can delete branch in your repository and for deleting your branch from remote repository you can use this command git push origin --delete YOURBRANCHNAME
