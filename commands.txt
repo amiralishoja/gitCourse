@@ -361,3 +361,7 @@ when you push a branch in github repo as pull request maybe get a confilict and 
 episode 65 fork
 
 you can using fork button for create a copy of the repo for yourself or copy and send a pull request for a project that you haven't access to that until they push your code in their project or repo
+
+episode 66 push on a fork repo
+
+when you want have a participate a repo at firs you need fork it and then you should create a new branch and save your changes in this branch not master branch, it's that why if you save your changes in master branch in merge time maybe to many people want send a pull request and maybe they get to many confilict. 
