@@ -365,3 +365,7 @@ you can using fork button for create a copy of the repo for yourself or copy and
 episode 66 push on a fork repo
 
 when you want have a participate a repo at firs you need fork it and then you should create a new branch and save your changes in this branch not master branch, it's that why if you save your changes in master branch in merge time maybe to many people want send a pull request and maybe they get to many confilict. 
+
+episode 67 send pull request through fork
+
+after push on your fork repo you can send a pull request for main repo. you should just click in create pull request button and chose branch and send it and wite for it to merged.
