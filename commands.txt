@@ -369,3 +369,10 @@ when you want have a participate a repo at firs you need fork it and then you sh
 episode 67 send pull request through fork
 
 after push on your fork repo you can send a pull request for main repo. you should just click in create pull request button and chose branch and send it and wite for it to merged.
+
+episode 68 git pull from a fork repo
+
+what happend if we fork a repo and change it and in this time main repo updated ? can we still push it ? yeh, we can but get a ridiculous confilict, so you have to add a remote to your forked repository.
+for add remote you just should write this  git remote add REMOTENAME GITREMOTEADDRESS
+usally we use upstream name for remote name in forked repository's
+and after all this you can get git pull from main repo with this command : git pull upstream
