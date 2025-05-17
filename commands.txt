@@ -357,3 +357,7 @@ at first whenever you would to write a code some like that you should create a n
 episode 64 confilict in pull request
 
 when you push a branch in github repo as pull request maybe get a confilict and then you need fix it with github through pull request section => confilict solve button
+
+episode 65 fork
+
+you can using fork button for create a copy of the repo for yourself or copy and send a pull request for a project that you haven't access to that until they push your code in their project or repo
