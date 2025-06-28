@@ -376,3 +376,21 @@ what happend if we fork a repo and change it and in this time main repo updated 
 for add remote you just should write this  git remote add REMOTENAME GITREMOTEADDRESS
 usally we use upstream name for remote name in forked repository's
 and after all this you can get git pull from main repo with this command : git pull upstream
+
+episode 76 tricks in markdown language
+
+for bolding a text you need just use two * or _ after and before your text
+for do italic a text you need just use one * or _ after and before your text
+for do italic and bold a text you need just use three * or _ after and before your text
+you can show text with hilight and background just with using down way
+> your menual text and your `hilight text`
+you can see what diffrence between two codes in markdown language like this
+```diff
+- your deleted code
++ your new code
+```
+you can use html tags in markdown language
+you can create a table in markdown language like this
+| Col 1| Col 2 |
+| -- | -- |
+| Row 1 Col 1| Row Col 2 |
