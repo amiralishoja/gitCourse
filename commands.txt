@@ -394,3 +394,9 @@ you can create a table in markdown language like this
 | Col 1| Col 2 |
 | -- | -- |
 | Row 1 Col 1| Row Col 2 |
+
+episode 85 git commit amend
+
+when you want add a change in your last commit and you don't want to use git reset to delete last commit an make an new commit, you can use git commit --all --amend and all of your changes added in your last commit
+your can use git commit -a --amend too
+if mybe don't working in terminal so just try to use that in your code editro with extension
