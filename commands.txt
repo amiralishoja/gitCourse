@@ -422,3 +422,9 @@ if you wanna see all changes in all files you can use git stash show -p stahs@{I
 episode 88 git stash apply
 
 when you want apply your stash box in your code but you don't want delete that stash box you can use this command git stash apply stash@{INDEX}
+
+episode 89 git blame
+
+git blame show you who change a piece of code that you wanna know writing it
+you can use easy like git blame FILENAMEWITHFORMAT or
+you can pass parameters to that like git blame FILENAMEWITHFORMAT -L STARTLINE,ENDLINE
