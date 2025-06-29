@@ -413,3 +413,8 @@ when you see all your stash for using last stash box you can use git stash pop
 if your want use a spacial stash box with its index you shold use this command git stash pop stash@{INDEX}
 if you don't need a stash you can remove it with this command git stash drop stash@{INDEX}
 if you don't need all of your stash box you can delete all of those with git stash clear
+
+episode 87 git stash show
+
+when you just wanna see which files has changes in your stash box you can use git stash show stash@{INDEX}
+if you wanna see all changes in all files you can use git stash show -p stahs@{INDEX}
