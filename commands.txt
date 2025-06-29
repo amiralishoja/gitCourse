@@ -418,3 +418,7 @@ episode 87 git stash show
 
 when you just wanna see which files has changes in your stash box you can use git stash show stash@{INDEX}
 if you wanna see all changes in all files you can use git stash show -p stahs@{INDEX}
+
+episode 88 git stash apply
+
+when you want apply your stash box in your code but you don't want delete that stash box you can use this command git stash apply stash@{INDEX}
