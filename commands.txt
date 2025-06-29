@@ -400,3 +400,16 @@ episode 85 git commit amend
 when you want add a change in your last commit and you don't want to use git reset to delete last commit an make an new commit, you can use git commit --all --amend and all of your changes added in your last commit
 your can use git commit -a --amend too
 if mybe don't working in terminal so just try to use that in your code editro with extension
+
+episode 86 git stash
+
+when you creating a new feature in your project and its not complete but you find a bug in your code, how can you fix it without distroy you local code ?
+answer is that, you need a stash box to save your local code when you shold remove all of your local code in project
+now you can use it in this way
+just writing git stash and stash save you local codes with your last commit message or you can use your messege in this way git stash save "your stash messege"
+now when you down your bug and fix it, it's time to bring your local codes in your project from stash, you can do that like this, at first you need to see all stash box with this command
+git stash list
+when you see all your stash for using last stash box you can use git stash pop
+if your want use a spacial stash box with its index you shold use this command git stash pop stash@{INDEX}
+if you don't need a stash you can remove it with this command git stash drop stash@{INDEX}
+if you don't need all of your stash box you can delete all of those with git stash clear
