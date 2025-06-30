@@ -428,3 +428,13 @@ episode 89 git blame
 git blame show you who change a piece of code that you wanna know writing it
 you can use easy like git blame FILENAMEWITHFORMAT or
 you can pass parameters to that like git blame FILENAMEWITHFORMAT -L STARTLINE,ENDLINE
+
+episode 90 git bisect
+
+git bisect mean binery search commit and show you a when a bug created
+if you want start working with git bisect you should run git bisect start and when it's over you should run git bisect reset
+after start you should give it a correct version to its start bisect
+for example you can give 10th your last commit that it's working for you
+and use it like that git bisect good COMMITID
+and then its show you diffrence version of your code and you have test, if your code work you should git bisect good and if it wasn't you have run git bisect bad
+after a few time if bug finded you can see a message that show you when wrong code wroten and who created.
