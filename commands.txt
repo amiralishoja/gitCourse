@@ -449,3 +449,7 @@ if you wanna search a tag you can use git tag -L YOURTARGET
 also you can use * in tag search to find your target faster like that git tag -L v2.* or *.2
 you should push tags in your remote if you don't do that you can't see your tags in github so if you wanna add a tag in you remote just run git push YOURREMOTENAME YOURTAGNAME
 for add all of tags in your remote you can use git push YOURREMOTENAME --tags
+
+episode 92 git rebase
+
+git rebase like git merge without commit and cleaner and better than git merge
