@@ -438,3 +438,14 @@ for example you can give 10th your last commit that it's working for you
 and use it like that git bisect good COMMITID
 and then its show you diffrence version of your code and you have test, if your code work you should git bisect good and if it wasn't you have run git bisect bad
 after a few time if bug finded you can see a message that show you when wrong code wroten and who created.
+
+episode 91 git tag
+
+you can use at tags for your code versions and for create a tag you should run git tag TAGNAME COMMITID
+if you wanna delete a tag you cant run git tag -d TAGNAME
+if you wanna change a give a exist tag for other commit you should delete it and made it again or use this command git tag -f TAGNAME NEWCOMMITID
+if you wanna see all your tages you can see those with git tags or git tags -L
+if you wanna search a tag you can use git tag -L YOURTARGET
+also you can use * in tag search to find your target faster like that git tag -L v2.* or *.2
+you should push tags in your remote if you don't do that you can't see your tags in github so if you wanna add a tag in you remote just run git push YOURREMOTENAME YOURTAGNAME
+for add all of tags in your remote you can use git push YOURREMOTENAME --tags
