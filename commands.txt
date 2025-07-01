@@ -453,3 +453,8 @@ for add all of tags in your remote you can use git push YOURREMOTENAME --tags
 episode 92 git rebase
 
 git rebase like git merge without commit and cleaner and better than git merge
+
+episode 96 gitlab and a trick
+
+you can clone a repository in your costum folder without create a folder with name of repository just like this git clone LINKREPOSITORY .
+that's all, you just need a dot.
