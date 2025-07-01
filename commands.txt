@@ -458,3 +458,13 @@ episode 96 gitlab and a trick
 
 you can clone a repository in your costum folder without create a folder with name of repository just like this git clone LINKREPOSITORY .
 that's all, you just need a dot.
+
+episode 97 git flow realese and feature
+
+git flow is a way to create clean branchs
+in git flow we have 5 branch that are master, hotfix, realese, develop, feature
+we use master just for tags
+also use hotfix for bugs
+and we use than realese for share a version
+we coding in develop branch
+also we add features in feature branchs that its parent is develop branch
