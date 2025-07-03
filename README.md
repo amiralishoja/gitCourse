@@ -25,7 +25,7 @@ This repository archives detailed notes from the Sabzlearn Git course, covering 
 Below is a list of lessons with links to their respective Markdown files in the `lessons` folder:
 
 | Episode | Title | Link |
-|---------|-------|------|
+|:-:|:-:|:-:|
 | 5 | Git Basics | [View Lesson](./lessons/Episode_5_Git_Basics.md) |
 | 7 | Initializing Git | [View Lesson](./lessons/Episode_7_Initializing_Git.md) |
 | 8 | Git Status and File States | [View Lesson](./lessons/Episode_8_Git_Status_and_File_States.md) |
