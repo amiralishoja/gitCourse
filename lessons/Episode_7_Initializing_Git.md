@@ -2,5 +2,5 @@
 
 - Use `git init` to initialize a Git repository in a project.
 - To view the `.git` folder in VS Code:
-  - Press `Ctrl + P`, search for `>settings`, and open the default settings JSON file.
+  - open settings and open settings.json file
   - Search for `.git` and set its value to `false` to make the `.git` folder visible.
