@@ -10,17 +10,17 @@ Welcome to the **Git Course Archive**, a comprehensive collection of notes from 
 
 ## 📃 Table of Contents
 
-- [About the Project](#about-the-project)
+- [About The Repository](#about-the-repository)
 - [Lessons](#lessons)
 - [Technologies Covered](#technologies-covered)
 - [Social Media](#social-media)
 - [Feedback](#feedback)
 
-## ⁉️ About The Repository
+<h2 id="about-the-repository">⁉️ About The Repository</h2>
 
 This repository archives detailed notes from the Sabzlearn Git course, covering essential Git workflows, commands, and collaboration techniques. Each lesson is stored in the `lessons` folder as a Markdown file, providing clear explanations and practical examples for mastering version control.
 
-## 🎒 Lessons
+<h2 id="lessons">📝 Lessons</h2>
 
 Below is a list of lessons with links to their respective Markdown files in the `lessons` folder:
 
@@ -94,14 +94,14 @@ Below is a list of lessons with links to their respective Markdown files in the 
 | 96 | GitLab and Cloning Trick | [View Lesson](./lessons/Episode_96_GitLab_and_Cloning_Trick.md) |
 | 97 | Git Flow | [View Lesson](./lessons/Episode_97_Git_Flow.md) |
 
-## ⚙️ Technologies Covered
+<h2 id="technologies-covered">⚙️ Technologies Covered</h2>
 
 - **Git**: Version control system for tracking changes.
 - **GitHub**: Platform for hosting and collaborating on repositories.
 - **GitLab**: Alternative platform for repository management.
 - **Git Flow**: Branching model for structured development.
 
-## 📡 Social Media
+<h2 id="social-media">📡 Social Media</h2>
 
 Connect with me:
 
@@ -109,6 +109,6 @@ Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amiralishoja)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3172y5iz5tv42jhub36opkevig2i)
 
-## 📬 Feedback
+<h2 id="feedback">📬 Feedback</h2>
 
 Have suggestions or feedback? Reach out at [amiralishoja.info@gmail.com](mailto:amiralishoja.info@gmail.com).
