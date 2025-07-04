@@ -16,11 +16,11 @@ Welcome to the **Git Course Archive**, a comprehensive collection of notes from 
 - [Social Media](#social-media)
 - [Feedback](#feedback)
 
-## ⁉ About the Project
+## ⁉️ About The Repository
 
 This repository archives detailed notes from the Sabzlearn Git course, covering essential Git workflows, commands, and collaboration techniques. Each lesson is stored in the `lessons` folder as a Markdown file, providing clear explanations and practical examples for mastering version control.
 
-## 📗 Lessons
+## 🎒 Lessons
 
 Below is a list of lessons with links to their respective Markdown files in the `lessons` folder:
 
@@ -94,7 +94,7 @@ Below is a list of lessons with links to their respective Markdown files in the 
 | 96 | GitLab and Cloning Trick | [View Lesson](./lessons/Episode_96_GitLab_and_Cloning_Trick.md) |
 | 97 | Git Flow | [View Lesson](./lessons/Episode_97_Git_Flow.md) |
 
-## ⚙ Technologies Covered
+## ⚙️ Technologies Covered
 
 - **Git**: Version control system for tracking changes.
 - **GitHub**: Platform for hosting and collaborating on repositories.
@@ -109,6 +109,6 @@ Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amiralishoja)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3172y5iz5tv42jhub36opkevig2i)
 
-## ✉ Feedback
+## 📬 Feedback
 
 Have suggestions or feedback? Reach out at [amiralishoja.info@gmail.com](mailto:amiralishoja.info@gmail.com).
