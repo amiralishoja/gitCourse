@@ -8,7 +8,7 @@ Welcome to the **Git Course Archive**, a comprehensive collection of notes from 
 
 </div>
 
-## 📃 Table of Contents
+## 🧭 Table of Contents
 
 - [About The Repository](#about-the-repository)
 - [Lessons](#lessons)
