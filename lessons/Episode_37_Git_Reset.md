@@ -1,4 +1,4 @@
-# Episode 36-37: Git Reset
+# Episode 37: Git Reset
 
 - **Warning**: `git reset` is a destructive command.
 - Commands:

@@ -56,7 +56,7 @@ Below is a list of lessons with links to their respective Markdown files in the 
 | 33 | Git Restore | [View Lesson](./lessons/Episode_33_Git_Restore.md) |
 | 34 | Git Restore with Source | [View Lesson](./lessons/Episode_34_Git_Restore_with_Source.md) |
 | 35 | Git Clean | [View Lesson](./lessons/Episode_35_Git_Clean.md) |
-| 36-37 | Git Reset | [View Lesson](./lessons/Episode_36_37_Git_Reset.md) |
+| 37 | Git Reset | [View Lesson](./lessons/Episode_37_Git_Reset.md) |
 | 38 | Git Reset Hard | [View Lesson](./lessons/Episode_38_Git_Reset_Hard.md) |
 | 39 | Git Revert | [View Lesson](./lessons/Episode_39_Git_Revert.md) |
 | 40 | Git Revert Conflicts and Flags | [View Lesson](./lessons/Episode_40_Git_Revert_Conflicts_and_Flags.md) |
